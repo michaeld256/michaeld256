@@ -8,6 +8,10 @@
 ### Hey there 👋
 I am Michael, currently 25 years old and deeply enthusiastic about Software Development across various domains. At the moment, I am pursuing my studies in computer science in Germany, and I am nearing completion of my degree.
 
+## Working on
+- [SiegeStats](https://siegestats.cc): Closed-Source Website, providing player statistics for a game. (Symfony [PHP], Tailwind, MaterializeCSS, MariaDB, Twig, Doctrine, TypeScript)
+- ... varios smaller projects in all kinds of techstacks
+
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
