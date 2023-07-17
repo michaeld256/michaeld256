@@ -6,7 +6,7 @@
 
 
 ### Hey there 👋
-I'm Michael, a currently 25 year old individual, with a passion for Software Development for all kinds of fields. Currently I'm studying computer science in Germany which I'll graduate very soon. 
+I am Michael, currently 25 years old and deeply enthusiastic about Software Development across various domains. At the moment, I am pursuing my studies in computer science in Germany, and I am nearing completion of my degree.
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
