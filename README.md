@@ -10,7 +10,7 @@ I am Michael, currently 25 years old and deeply enthusiastic about Software Deve
 
 ## Working on
 - [SiegeStats](https://siegestats.cc): Closed-Source Website, providing player statistics for a game. (Symfony [PHP], Tailwind, MaterializeCSS, MariaDB, Twig, Doctrine, TypeScript)
-- ... varios smaller projects in all kinds of techstacks
+- ... various smaller projects in all kinds of techstacks
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -50,18 +50,3 @@ I am Michael, currently 25 years old and deeply enthusiastic about Software Deve
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-<!--
-**michaeld256/michaeld256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...michael__d
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
